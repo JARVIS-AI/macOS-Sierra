@@ -1,7 +1,10 @@
-# macOS Sierra 
-###Theme reproducing the clean and bright look of Apple's OS [(dark theme here)](https://github.com/B00merang-Project/macOS-Sierra/tree/dark) ###
+[![built-with-azurra-framework](https://github.com/Elbullazul/Azurra_framework/raw/assets/azurra_framework_smaller.png)](https://github.com/Elbullazul/Azurra_framework)
 
-![macOS-Sierra-OS-X](http://b00merang.weebly.com/uploads/1/6/8/1/16813022/screenshot-2016-12-20-14-07-38_1_orig.png)
+# macOS 10.15 'Catalina'
+
+Theme reproducing the clean and bright look of Apple's OS [(dark theme here)](https://github.com/B00merang-Project/macOS-Dark)
+
+![macOS](https://github.com/B00merang-Project/gallery/raw/master/macOS%2010.14%20Mojave%20(4).png)
 
 **Maintainer :** [Elbullazul](https://github.com/Elbullazul)
 
@@ -9,30 +12,17 @@
 
 **License :** GPL v3
 
-**More info :** http://b00merang.weebly.com/macos-sierra.html
+**More info :** http://b00merang.weebly.com/macos.html
 
-###Manual installation###
+### Manual installation
 
 Extract the zip file to the themes directory i.e. `/home/USERNAME/.themes`
 
-To set the theme in Gnome, run the following commands in Terminal,
+### Requirements
 
-```
-gsettings set org.gnome.desktop.interface gtk-theme "macOS Sierra"
-gsettings set org.gnome.desktop.wm.preferences theme "macOS Sierra"
-```
-
-To set the theme in Xfce, run the following commands in Terminal,
-
-```
-xfconf-query -c xsettings -p /Net/ThemeName -s "macOS Sierra"
-```
-
-### Requirements ###
-
-- GTK+ 3.6 or above
+- GTK+ 3.16 or above
 - Murrine and Pixmap theme engines
 
-### Contribute ###
+### Contribute
 
 Contact us @ http://b00merang.weebly.com/contact.html
